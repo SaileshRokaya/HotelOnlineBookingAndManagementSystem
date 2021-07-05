@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Pictures/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Music/rs2xml/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/OneDrive/Desktop/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Videos/joda-time-2.0.jar/joda-time-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
